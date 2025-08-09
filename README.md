@@ -2,22 +2,24 @@
 <h3 align="center">🚀 Aspiring AI/ML Engineer | 💡 Problem Solver | 📊 Data Explorer | 💻 Python | Java | C</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jontybr18211&label=Profile%20views&color=blueviolet&style=flat" alt="Profile views" />
+  <img src="https://images5.fanpop.com/image/photos/26300000/Movie-Stills-tyler-durden-26310017-1200-783.jpg" 
+       width="600" alt="Tyler Durden" style="border-radius:8px; margin-bottom: 20px;" />
 </p>
 
-<h3 align="center">Stay Hard 💪</h3>
-<p align="center">
-  <img src="https://www.dmarge.com/wp-content/uploads/2021/08/goggins2-1-1200x800.jpg" width="400" alt="David Goggins Stay Hard" />
+<h3 align="center" style="margin-top: 0;">The Maverick</h3>
+<p align="center" style="margin-top: 5px;">
+  <img src="https://media.giphy.com/media/l41Yq0HjS31T642Fq/giphy.gif" width="150" alt="AI Brain" />
 </p>
 
 ---
 
 - 🔭 Currently building AI/ML projects and real-world intelligent systems  
-- 🧠 Exploring Deep Learning, NLP, and Neural Networks  
+- 🧠 Exploring Deep Learning, NLP, and Neural Networks and new AI Frameworks  
 - 🛠️ Built an AI-powered **Crossword Solver using NLTK and WordNet**  
 - 🧰 Skilled in **Python**, **Java**, **C**, **scikit-learn**, and core Data Science tools  
-- 🎯 Strong foundation in **OOP**, **math**, and solving real-world problems  
-- 📚 Passionate about simplifying complex AI topics for practical use  
+- 🎯 Strong foundation in **OOPS**, and solving real-world problems  
+- 📚 Passionate about simplifying complex AI topics for practical use
+- ⚡ Super adaptable to new circumstances
 
 ---
 
