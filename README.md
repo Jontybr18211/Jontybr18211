@@ -15,7 +15,7 @@
 
 - 🔭 Currently building AI/ML projects and real-world intelligent systems  
 - 🧠 Exploring Deep Learning, NLP, and Neural Networks and new AI Frameworks  
-- 🛠️ Built an AI-powered **Crossword Solver using NLTK and WordNet**  
+- 🛠️ Built an ML-powered **Crossword Solver using NLTK and WordNet**  
 - 🧰 Skilled in **Python**, **Java**, **C**, **scikit-learn**, and core Data Science tools  
 - 🎯 Strong foundation in **OOPS**, and solving real-world problems  
 - 📚 Passionate about simplifying complex AI topics for practical use
