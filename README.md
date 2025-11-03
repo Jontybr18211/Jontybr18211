@@ -7,10 +7,6 @@
 </p>
 
 <h3 align="center" style="margin-top: 0;">The Maverick</h3>
-<p align="center" style="margin-top: 5px;">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanl5dDR1M2Zhd3E2OHJka3dvNmh6dWJ1NHZneW01anJxMHJlOHp6bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/efItyJ7dxukJa/giphy.gif" width="150" alt="AI Brain" />
-</p>
-
 ---
 
 - 🔭 Currently building AI/ML projects and real-world intelligent systems  
