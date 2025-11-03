@@ -38,6 +38,9 @@
   <a href="https://github.com/Jontybr18211" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="40" height="40"/>
   </a>
+  <a href="https://www.skills.google/public_profiles/e913499d-11b1-48d5-92d5-d9ace8ed75e4" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Google_Cloud_Logo.svg" alt="Google Cloud Skill Boost" width="40" height="40"/>
+  </a>
 </p>
 
 ---
