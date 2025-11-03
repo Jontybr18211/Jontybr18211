@@ -8,21 +8,54 @@
 
 <h3 align="center" style="margin-top: 0;">The Maverick</h3>
 
+# 👋 Hey there, I'm **Soumaditya Deb**
 
-🔭 Currently building AI/ML projects — gesture-based systems, NLP-powered word/crossword solver, AI Discord bot, and API-driven automation  
-🧠 Exploring Deep Learning, NLP, Computer Vision, and modern AI frameworks  
-🤖 Built projects like:  
-- Gesture Volume Control (OpenCV)  
-- NLP Crossword/Word Solver (NLTK + WordNet)  
-- Customer Segmentation (KMeans)  
-- Image Classification (SVM)  
-- House Price Prediction (Regression)  
-- AI-Powered Weather Assistant  
+🚀 *AI/ML Developer — building intelligent & real-world AI systems*
 
-🧰 Skilled in Python, scikit-learn, OpenCV, NLTK/WordNet, basic backend & API integration, and cloud hosting (GCP Cloud Run)  
-🎯 Strong foundation in problem-solving, modular architecture, and building real-world intelligent systems  
-📚 Passionate about simplifying complex AI concepts into practical applications  
-⚡ Adaptable, curious, and constantly experimenting — aspiring **AI/ML + MLOps Engineer**
+---
+
+### 🔥 What I'm Working On
+- 🤖 **AI Discord bot** (content generation + automation)
+- ✍️ **NLP crossword / word solver** using NLTK + WordNet  
+- ✋ **Gesture-based control systems** using OpenCV  
+- ☁️ **API-driven automation** + Cloud deployments
+
+---
+
+### 🏆 Highlight Projects
+| Domain | Project |
+|--------|---------|
+| 🖐 Computer Vision | Gesture Volume Control (OpenCV) |
+| 🧠 NLP | Crossword / Word Solver (NLTK + WordNet) |
+| 📊 Machine Learning | Customer Segmentation (KMeans) |
+| 🐶 Image Classification | Cats vs Dogs (SVM) |
+| 🏠 Regression Model | House Price Prediction |
+| 🌦 AI + API Integration | AI-Powered Weather Assistant |
+
+---
+
+### 🧰 Tech & Tools
+- **Languages:** Python  
+- **ML/AI:** scikit-learn · NLTK · OpenCV  
+- **Backend & APIs:** Basic backend dev + API integration  
+- **Cloud:** Google Cloud (Cloud Run deployments)
+
+---
+
+### 💡 What Drives Me
+- ✅ Turning complex AI ideas into **practical real-world applications**
+- ✅ Architecting **modular & scalable systems**
+- ✅ Continuously experimenting, improving, and learning
+
+---
+
+### 🎯 My Goal
+> Becoming a **skilled AI/ML + MLOps Engineer**  
+> Deploying models that don’t just *work* — but scale.
+
+---
+
+⚡ *"Build. Break. Learn. Repeat."*
 
 ---
 
