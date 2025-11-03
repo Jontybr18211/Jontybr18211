@@ -9,13 +9,13 @@
 <h3 align="center" style="margin-top: 0;">The Maverick</h3>
 ---
 
-- 🔭 Currently building AI/ML projects and real-world intelligent systems  
-- 🧠 Exploring Deep Learning, NLP, and Neural Networks and new AI Frameworks  
-- 🛠️ Built an ML-powered **Crossword Solver using NLTK and WordNet**  
-- 🧰 Skilled in **Python**, **Java**, **C**, **scikit-learn**, and core Data Science tools  
-- 🎯 Strong foundation in **OOPS**, and solving real-world problems  
-- 📚 Passionate about simplifying complex AI topics for practical use
-- ⚡ Super adaptable to new circumstances
+🔭 Currently building AI/ML projects — gesture-based systems, NLP-powered word/crossword solver, AI Discord bot, and API-driven automation
+🧠 Exploring Deep Learning, NLP, Computer Vision, and modern AI frameworks
+🤖 Built projects like Gesture Volume Control (OpenCV), NLP Crossword/Word Solver using NLTK + WordNet, Customer Segmentation (KMeans), Image Classification (SVM), House Price Prediction (Regression), and an AI-Powered Weather Assistant
+🧰 Skilled in Python, scikit-learn, OpenCV, NLTK/WordNet, basic backend & API integration, and cloud hosting (GCP Cloud Run)
+🎯 Strong foundation in problem-solving, modular architecture, and building real-world intelligent systems
+📚 Passionate about simplifying complex AI concepts into practical applications
+⚡ Adaptable, curious, and constantly experimenting — aspiring AI/ML + MLOps Engineer
 
 ---
 
