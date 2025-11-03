@@ -70,22 +70,18 @@
 ### 📈 GitHub Stats
 
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jontybr18211&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jontybr18211&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jontybr18211&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jontybr18211&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jontybr18211&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jontybr18211&count_private=true&show_icons=false&theme=radical&hide_title=true&hide_border=true&hide_rank=true&include_all_commits=true" alt="Contribution Graph" />
 </p>
+
 
 ---
 
