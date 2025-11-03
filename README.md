@@ -9,13 +9,20 @@
 <h3 align="center" style="margin-top: 0;">The Maverick</h3>
 ---
 
-🔭 Currently building AI/ML projects — gesture-based systems, NLP-powered word/crossword solver, AI Discord bot, and API-driven automation
-🧠 Exploring Deep Learning, NLP, Computer Vision, and modern AI frameworks
-🤖 Built projects like Gesture Volume Control (OpenCV), NLP Crossword/Word Solver using NLTK + WordNet, Customer Segmentation (KMeans), Image Classification (SVM), House Price Prediction (Regression), and an AI-Powered Weather Assistant
-🧰 Skilled in Python, scikit-learn, OpenCV, NLTK/WordNet, basic backend & API integration, and cloud hosting (GCP Cloud Run)
-🎯 Strong foundation in problem-solving, modular architecture, and building real-world intelligent systems
-📚 Passionate about simplifying complex AI concepts into practical applications
-⚡ Adaptable, curious, and constantly experimenting — aspiring AI/ML + MLOps Engineer
+🔭 Currently building AI/ML projects — gesture-based systems, NLP-powered word/crossword solver, AI Discord bot, and API-driven automation  
+🧠 Exploring Deep Learning, NLP, Computer Vision, and modern AI frameworks  
+🤖 Built projects like:  
+- Gesture Volume Control (OpenCV)  
+- NLP Crossword/Word Solver (NLTK + WordNet)  
+- Customer Segmentation (KMeans)  
+- Image Classification (SVM)  
+- House Price Prediction (Regression)  
+- AI-Powered Weather Assistant  
+
+🧰 Skilled in Python, scikit-learn, OpenCV, NLTK/WordNet, basic backend & API integration, and cloud hosting (GCP Cloud Run)  
+🎯 Strong foundation in problem-solving, modular architecture, and building real-world intelligent systems  
+📚 Passionate about simplifying complex AI concepts into practical applications  
+⚡ Adaptable, curious, and constantly experimenting — aspiring **AI/ML + MLOps Engineer**
 
 ---
 
@@ -80,6 +87,6 @@ Aspiring AI/ML Engineer | Python | C | Java | Data Science
 
 Curious and driven AI/ML enthusiast with hands-on experience in NLP and real-world problem solving. Built an ML-powered crossword solver using NLTK and WordNet. Proficient in Python, scikit-learn, C, and Java with a strong foundation in OOPs and advanced programming concepts.
 
-Backed by a solid grasp of mathematics, I blend analytical thinking with practical insights to approach AI challenges creatively. Passionate about simplifying complex topics and sharing knowledge. Actively exploring deep learning, neural networks, and AI research. Open to exciting opportunities to learn, contribute, and grow in the world of AI.
+I blend analytical thinking with practical insights to approach AI challenges creatively. Passionate about simplifying complex topics and sharing knowledge. Actively exploring deep learning, neural networks, and AI research. Open to exciting opportunities to learn, contribute, and grow in the world of AI.
 
 Let’s connect!
