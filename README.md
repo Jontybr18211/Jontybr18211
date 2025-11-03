@@ -25,6 +25,7 @@
 ### 🏆 Highlight Projects
 | Domain | Project |
 |--------|---------|
+| 🤖 AI Bot	Gemini-Powered | Discord Bot (Vidur)  |
 | 🖐 Computer Vision | Gesture Volume Control (OpenCV) |
 | 🧠 NLP | Crossword / Word Solver (NLTK + WordNet) |
 | 📊 Machine Learning | Customer Segmentation (KMeans) |
