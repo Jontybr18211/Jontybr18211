@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Aspiring AI/ML Engineer | 💡 Problem Solver | 📊 Data Explorer | 💻 Python | Java | C</h3>
 
 <p align="center">
-  <img src="https://images5.fanpop.com/image/photos/26300000/Movie-Stills-tyler-durden-26310017-1200-783.jpg" 
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanl5dDR1M2Zhd3E2OHJka3dvNmh6dWJ1NHZneW01anJxMHJlOHp6bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/efItyJ7dxukJa/giphy.gif" 
        width="600" alt="Tyler Durden" style="border-radius:8px; margin-bottom: 20px;" />
 </p>
 
