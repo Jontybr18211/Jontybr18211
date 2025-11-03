@@ -69,6 +69,12 @@
 
 ### 📈 GitHub Stats
 
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jontybr18211&layout=compact&theme=radical" alt="Top Langs" />
 </p>
