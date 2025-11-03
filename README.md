@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Aspiring AI/ML Engineer | 💡 Problem Solver | 📊 Data Explorer | 💻 Python | Java | C</h3>
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanl5dDR1M2Zhd3E2OHJka3dvNmh6dWJ1NHZneW01anJxMHJlOHp6bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/efItyJ7dxukJa/giphy.gif" 
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW9jODZ6OGtobXd2a3E2cmdiaTBuZXBqbTE0OWp2YTE0NWtuZGdtaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/syEfLvksYQnmM/giphy.gif" 
        width="600" alt="Tyler Durden" style="border-radius:8px; margin-bottom: 20px;" />
 </p>
 
