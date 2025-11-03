@@ -7,7 +7,7 @@
 </p>
 
 <h3 align="center" style="margin-top: 0;">The Maverick</h3>
----
+
 
 🔭 Currently building AI/ML projects — gesture-based systems, NLP-powered word/crossword solver, AI Discord bot, and API-driven automation  
 🧠 Exploring Deep Learning, NLP, Computer Vision, and modern AI frameworks  
