@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Soumaditya Deb</h1>
+<h1 align="center">Hi 👋, I'm Soumaditya</h1>
 <h3 align="center">🚀 Aspiring AI/ML Engineer | 💡 Problem Solver | 📊 Data Explorer | 💻 Python | Java | C</h3>
 
 <p align="center">
