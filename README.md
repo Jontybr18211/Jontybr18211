@@ -105,16 +105,17 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jontybr18211&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codex21Venom&layout=compact&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jontybr18211&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Codex21Venom&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=false" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jontybr18211&count_private=true&show_icons=false&theme=radical&hide_title=true&hide_border=true&hide_rank=true&include_all_commits=true" alt="Contribution Graph" />
+  <img src="https://streak-stats.demolab.com?user=Codex21Venom&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats" />
 </p>
+
 
 
 ---
